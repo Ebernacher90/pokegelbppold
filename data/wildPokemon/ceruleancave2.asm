@@ -1,0 +1,14 @@
+DungeonMons2:
+	db $0F
+	db 85,ALAKAZAM
+	db 87,IKSBAT
+	db 85,GOLEM
+	db 86,SANDSLASH
+	db 85,GENGAR
+	db 85,STAHLOS
+	db 88,GLOOM
+	db 88,WEEPINBELL
+	db 90,RIZEROS
+	db 85,MACHAMP
+	db $00
+

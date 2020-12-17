@@ -1,0 +1,14 @@
+DungeonMonsB1:
+	db $19
+	db 88,ALAKAZAM
+	db 91,IKSBAT
+	db 88,GOLEM
+	db 90,SANDSLASH
+	db 88,GENGAR
+	db 88,STAHLOS
+	db 92,GLOOM
+	db 92,WEEPINBELL
+	db 95,RIHORNIOR
+	db 88,MACHAMP
+	db $00
+

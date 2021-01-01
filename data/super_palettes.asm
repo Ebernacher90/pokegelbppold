@@ -695,3 +695,39 @@ GBCBasePalettes:
 	RGB 26,  6,  3 ; rot
 	RGB 21, 14, 11 ; brown
 	RGB  3,  3,  3
+
+	; PAL_MAGNETILO
+	RGB 31, 31, 31
+	RGB 22, 26, 23 ; Helles Grau
+	RGB 17, 17, 17 ; Grau
+	RGB  3,  3,  3
+
+	; PAL_AERODACTYL
+	RGB 31, 31, 31
+	RGB 18, 16, 19 ; Hell Graulila
+	RGB 14,  9, 18 ; Lila
+	RGB  3,  3,  3
+
+	; PAL_ZUBAT
+	RGB 31, 31, 31
+	RGB 22,  9, 19 ; Lila
+	RGB 12, 14, 22 ; Blau
+	RGB  3,  3,  3
+
+	; PAL_GOLBAT
+	RGB 31, 31, 31
+	RGB 21,  9, 21 ; Lila
+	RGB 12, 16, 24 ; Blau
+	RGB  3,  3,  3
+
+	; PAL_ELEKTEK
+	RGB 31, 31, 31
+	RGB 24,  3,  9 ; Rot
+	RGB 31, 28,  7 ; Gelb
+	RGB  3,  3,  3
+
+	; PAL_MAGMAR
+	RGB 31, 31, 31
+	RGB 31, 28,  8 ; Gelb
+	RGB 31,  8,  6 ; Rot
+	RGB  3,  3,  3

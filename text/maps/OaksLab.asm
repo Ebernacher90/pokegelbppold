@@ -1,11 +1,12 @@
 _OaksLabGaryText1::
 	text "<RIVAL>: Yo"
-	line "<PLAYER>! Gramps"
-	cont "isn't around!"
+	line "<PLAYER>! Opa ist"
+	cont "nicht hier!"
 
-	para "I ran here 'cos"
-	line "he said he had a"
-	cont "#MON for me."
+	para "Ich kam hierher"
+	line "weil er sagte,"
+	cont "er hätte ein"
+	cont "#MON für mich!"
 	done
 
 _OaksLabText40::
@@ -22,14 +23,14 @@ _OaksLabText41::
 	done
 
 _OaksLabText39::
-	text "That's a #"
-	line "BALL. There's a"
-	cont "#MON inside!"
+	text "Dieser #BALL"
+	line "enthält ein #-"
+	cont "MON im inneren!"
 	done
 
 _OaksLabPikachuText::
-	text "OAK: Go ahead,"
-	line "it's yours!"
+	text "EICH: Geh zurück,"
+	line "Es ist deins!"
 	done
 
 _OaksLabText_1d2f5::
@@ -46,9 +47,10 @@ _OaksLabText_1d2f5::
 	done
 
 _OaksLabText_1d2fa::
-	text "OAK: You should"
-	line "talk to it and"
-	cont "see how it feels."
+	text "EICH: Du solltest"
+	line "mit ihm reden, um"
+	cont "zu sehen wie es,"
+	cont "sich fühlt!"
 	done
 
 _OaksLabDeliverParcelText1::
@@ -95,59 +97,72 @@ _OaksLabAroundWorldText::
 	done
 
 _OaksLabGivePokeballsText1::
-	text "OAK: You can't get"
-	line "detailed data on"
-	cont "#MON by just"
-	cont "seeing them."
+	text "EICH: Du"
+	line "kannst keine"
+	cont "detailierten"
+	cont "Daten erhalten,"
+	cont "wenn du ein #-"
+	cont "MON siehst."
 
-	para "You must catch"
-	line "them! Use these"
-	cont "to capture wild"
-	cont "#MON."
+	para "Du musst es erst"
+	line "fangen! Benutze"
+	cont "diese #BÄLLE,"
+	cont "um ein wildes"
+	cont "#MON, zu"
+	cont "fangen!"
 
-	para "<PLAYER> got 5"
-	line "# BALLs!@@"
+	para "<PLAYER> erhält 5"
+	line "#BÄLLE!@@"
 
 _OaksLabGivePokeballsText2::
 	text ""
-	para "When a wild"
-	line "#MON appears,"
-	cont "it's fair game."
+	para "Wenn ein wildes"
+	line "#MON erschein,"
+	cont "ist es fair,"
+	cont "es zu fangen!"
 
-	para "Just like I showed"
-	line "you, throw a #"
-	cont "BALL at it and try"
-	cont "to catch it!"
+	para "JSo wie ich es"
+	line "dir gezeigt habe,"
+	cont "musst du ein" 
+	cont "#BALL werfen"
+	cont "und versuchen"
+	cont "es zu fangen!"
 
-	para "This won't always"
-	line "work, though."
+	para "Das wird nicht"
+	line "immer klappen."
 
-	para "A healthy #MON"
-	line "could escape. You"
-	cont "have to be lucky!"
+	para "Ein gesundes"
+	line "#MON könnte,"
+	cont "fliehen. Du musst"
+	cont "glück haben!"
 	done
 
 _OaksLabPleaseVisitText::
-	text "OAK: Come see me"
-	line "sometimes."
+	text "EICH: Komm mich"
+	line "besuchen um mich"
+	cont "manchmal zu sehen."
 
-	para "I want to know how"
-	line "your #DEX is"
-	cont "coming along."
+	para "Ich möchte gern"
+	line "wissen wie dein"
+	cont "#DEX vorran"
+	cont "geht!"
 	done
 
 _OaksLabText_1d31d::
-	text "OAK: Good to see "
-	line "you! How is your "
-	cont "#DEX coming? "
-	cont "Here, let me take"
-	cont "a look!"
+	text "EICH: Schön dich"
+	line "zu sehen! Wie" 
+	cont "weit ist dein"
+	cont "#DEX? Lass" 
+	cont "mich einen kurzen"
+	cont "blick darauf"
+	cont "werfen!"
 	prompt
 
 _OaksLabText_1d32c::
-	text "It's encyclopedia-"
-	line "like, but the"
-	cont "pages are blank!"
+	text "Es ist wie eine"
+	line "Wikipedia, aber"
+	cont "die Seiten sind"
+	cont "vollkommen leer!"
 	done
 
 _OaksLabText8::
@@ -265,7 +280,7 @@ _OaksLabReceivedText::
 
 _OaksLabLeavingText::
 	text "OAK: Hey! Geh"
-	line "nicht weg, du!"
+	line "nicht weg, du"
 	cont "bekommst dein"
 	cont "erstes #MON!"
 	done

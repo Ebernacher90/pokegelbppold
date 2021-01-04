@@ -20,34 +20,34 @@ PikachuFanPrintText::
 	cont "CLEFAIRY."
 	done
 
-SeelFanText::
+JurobFanText::
 	text "I just love my"
-	line "SEEL!"
+	line "Jurob!"
 
 	para "It squeals when I"
 	line "hug it!"
 	done
 
-SeelFanBetterText::
+JurobFanBetterText::
 	text "Oh dear!"
 
-	para "My SEEL is far"
+	para "My Jurob is far"
 	line "more attractive!"
 	done
 
-SeelFanPrintText::
+JurobFanPrintText::
 	text "I'm going to hook"
 	line "up the cable to"
 	cont "get a photo PRINT"
-	cont "of my SEEL!"
+	cont "of my Jurob!"
 	done
 
 FanClubPikachuText::
 	text "CLEFAIRY: Pippii!"
 	done
 
-FanClubSeelText::
-	text "SEEL: Kyuoo!"
+FanClubJurobText::
+	text "Jurob: Kyuoo!"
 	done
 
 FanClubMeetChairText::

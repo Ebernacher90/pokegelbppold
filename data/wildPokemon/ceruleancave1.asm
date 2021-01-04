@@ -9,6 +9,6 @@ DungeonMons1:
 	db 83,MACHOKE
 	db 83,HAUNTER
 	db 82,ONIX
-	db 88,RHYHORN
+	db 88,RIHORN
 	db $00
 

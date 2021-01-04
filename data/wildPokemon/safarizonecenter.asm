@@ -3,7 +3,7 @@ ZoneMonsCenter:
 	db 14,NIDORAN_M
 	db 36,NIDORAN_F
 	db 24,EXEGGCUTE
-	db 20,RHYHORN
+	db 20,RIHORN
 	db 23,NIDORINO
 	db 27,PARASECT
 	db 27,PARAS

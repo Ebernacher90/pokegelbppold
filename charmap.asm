@@ -238,6 +238,7 @@ charmap "Ü", $C2
 charmap "ä", $C3
 charmap "ö", $C4
 charmap "ü", $C5
+charmap "ß", $C6
 
 charmap "'", $E0
 

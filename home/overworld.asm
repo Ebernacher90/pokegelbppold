@@ -1791,8 +1791,8 @@ LoadSurfingPlayerSpriteGraphics2::
 	jr LoadPlayerSpriteGraphicsCommon
 
 LoadSurfingPlayerSpriteGraphics::
-	ld b, BANK(SeelSprite)
-	ld de, SeelSprite
+	ld b, BANK(JurobSprite)
+	ld de, JurobSprite
 	jr LoadPlayerSpriteGraphicsCommon
 
 LoadBikePlayerSpriteGraphics::

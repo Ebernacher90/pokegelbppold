@@ -86,7 +86,7 @@ const_value = 1
 	const DEX_FARFETCHD  ; 84
 	const DEX_DODUO      ; 85
 	const DEX_DODRIO     ; 86
-	const DEX_SEEL       ; 87
+	const DEX_JUROB      ; 87
 	const DEX_DEWGONG    ; 88
 	const DEX_GRIMER     ; 89
 	const DEX_MUK        ; 90
@@ -111,7 +111,7 @@ const_value = 1
 	const DEX_LICKITUNG  ; 109
 	const DEX_KOFFING    ; 110
 	const DEX_WEEZING    ; 111
-	const DEX_RHYHORN    ; 112
+	const DEX_RIHORN	 ; 112
 	const DEX_RIZEROS    ; 113
 	const DEX_CHANSEY    ; 114
 	const DEX_TANGELA    ; 115

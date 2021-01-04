@@ -74,7 +74,7 @@ const_value = 1
 	const SPRITE_AGATHA                    ; $39
 	const SPRITE_BRUNO                     ; $3a
 	const SPRITE_LORELEI                   ; $3b
-	const SPRITE_SEEL                      ; $3c
+	const SPRITE_JUROB                     ; $3c
 	const SPRITE_PIKACHU                   ; $3d
 	const SPRITE_OFFICER_JENNY             ; $3e
 	const SPRITE_SANDSHREW                 ; $3f

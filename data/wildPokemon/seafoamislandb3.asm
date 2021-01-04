@@ -5,9 +5,9 @@ IslandMonsB3:
 	db 29,KRABBY
 	db 27,ZUBAT
 	db 30,KINGLER
-	db 26,SEEL
+	db 26,JUROB
 	db 31,KRABBY
-	db 30,SEEL
+	db 30,JUROB
 	db 28,DEWGONG
 	db 32,DEWGONG
 

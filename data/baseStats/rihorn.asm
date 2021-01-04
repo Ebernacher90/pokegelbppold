@@ -1,4 +1,4 @@
-db DEX_RHYHORN ; pokedex id
+db DEX_RIHORN ; pokedex id
 db 80 ; base hp
 db 85 ; base attack
 db 95 ; base defense
@@ -8,9 +8,9 @@ db GROUND ; species type 1
 db ROCK ; species type 2
 db 120 ; catch rate
 db 135 ; base exp yield
-INCBIN "pic/ymon/rhyhorn.pic",0,1 ; 77, sprite dimensions
-dw RhyhornPicFront
-dw RhyhornPicBack
+INCBIN "pic/ymon/rihorn.pic",0,1 ; 77, sprite dimensions
+dw RihornPicFront
+dw RihornPicBack
 ; attacks known at lvl 0
 db HORN_ATTACK
 db 0
@@ -25,4 +25,4 @@ db 5 ; growth rate
 	tmlearn 34,38,40
 	tmlearn 44,48
 	tmlearn 50,54
-db BANK(RhyhornPicFront)
+db BANK(RihornPicFront)

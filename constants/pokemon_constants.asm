@@ -17,7 +17,7 @@ const_value = 1
 	const NIDORAN_F    ; $0F
 	const NIDOQUEEN    ; $10
 	const CUBONE       ; $11
-	const RHYHORN      ; $12
+	const RIHORN	   ; $12
 	const LAPRAS       ; $13
 	const ARCANINE     ; $14
 	const MEW          ; $15
@@ -57,7 +57,7 @@ const_value = 1
 	const KOFFING      ; $37
 	const ELEVOLTEK    ; $38
 	const MANKEY       ; $39
-	const SEEL         ; $3A
+	const JUROB        ; $3A
 	const DIGLETT      ; $3B
 	const TAUROS       ; $3C
 	const PORYGON2	   ; $3D

@@ -52,7 +52,7 @@ FanClubScript_59a44:
 	ld hl, PikachuMovementScript_59a8c
 	call ApplyPikachuMovementData
 	ld a, $2
-	ld [wSpriteStateData1 + 3 * $10 + 1], a ; Seel
+	ld [wSpriteStateData1 + 3 * $10 + 1], a ; Jurob
 	xor a ; SPRITE_FACING_DOWN
 	ld [wSpriteStateData1 + 3 * $10 + 9], a
 	callab InitializePikachuTextID
@@ -88,7 +88,7 @@ FanClubText1:
 .asm_59aaf
 	CheckEventReuseHL EVENT_PIKACHU_FAN_BOAST
 	jr nz, .mineisbetter
-	SetEventReuseHL EVENT_SEEL_FAN_BOAST
+	SetEventReuseHL EVENT_JUROB_FAN_BOAST
 	ld hl, .normaltext
 	call PrintText
 	jr .done
@@ -113,7 +113,7 @@ FanClubText1:
 	db "@"
 
 FanClubText2:
-; seel fan
+; jurob fan
 	TX_ASM
 	CheckEventHL EVENT_152
 	jr z, .asm_59ae7
@@ -121,29 +121,29 @@ FanClubText2:
 	call PrintText
 	jr .done
 .asm_59ae7
-	CheckEventReuseHL EVENT_SEEL_FAN_BOAST
+	CheckEventReuseHL EVENT_JUROB_FAN_BOAST
 	jr nz, .mineisbetter
 	SetEventReuseHL EVENT_PIKACHU_FAN_BOAST
 	ld hl, .normaltext
 	call PrintText
 	jr .done
 .mineisbetter
-	ResetEventReuseHL EVENT_SEEL_FAN_BOAST
+	ResetEventReuseHL EVENT_JUROB_FAN_BOAST
 	ld hl, .bettertext
 	call PrintText
 .done
 	jp TextScriptEnd
 
 .normaltext
-	TX_FAR SeelFanText
+	TX_FAR JurobFanText
 	db "@"
 
 .bettertext
-	TX_FAR SeelFanBetterText
+	TX_FAR JurobFanBetterText
 	db "@"
 
 .yellowtext
-	TX_FAR SeelFanPrintText
+	TX_FAR JurobFanPrintText
 	db "@"
 
 FanClubText3:
@@ -161,17 +161,17 @@ FanClubText3:
 	db "@"
 
 FanClubText4:
-; seel
+; jurob
 	TX_ASM
 	ld hl, .text
 	call PrintText
-	ld a, SEEL
+	ld a, JUROB
 	call PlayCry
 	call WaitForSoundToFinish
 	jp TextScriptEnd
 
 .text
-	TX_FAR FanClubSeelText
+	TX_FAR FanClubJurobText
 	db "@"
 
 FanClubText5:

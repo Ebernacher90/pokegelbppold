@@ -4,8 +4,8 @@ IslandMonsB4:
 	db 36,ZUBAT
 	db 30,KRABBY
 	db 32,KINGLER
-	db 28,SEEL
-	db 32,SEEL
+	db 28,JUROB
+	db 32,JUROB
 	db 27,GOLBAT
 	db 45,ZUBAT
 	db 30,DEWGONG

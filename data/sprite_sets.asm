@@ -185,7 +185,7 @@ SpriteSets:
 	db SPRITE_FISHER2
 	db SPRITE_GAMBLER
 	db SPRITE_SLOWBRO
-	db SPRITE_SEEL
+	db SPRITE_JUROB
 	db SPRITE_SWIMMER
 	db SPRITE_BUG_CATCHER
 	db SPRITE_BALL
@@ -487,10 +487,10 @@ SpriteSheetPointerTable:
 	db $c0 ; byte count
 	db BANK(LoreleiSprite)
 
-	; SPRITE_SEEL
-	dw SeelSprite
+	; SPRITE_JUROB
+	dw JurobSprite
 	db $c0 ; byte count
-	db BANK(SeelSprite)
+	db BANK(JurobSprite)
 
 	; SPRITE_PIKACHU
 	dw PikachuSprite

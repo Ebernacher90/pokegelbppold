@@ -342,7 +342,7 @@ const_value = 0
 	const EVENT_153                                  ; 153, (D771, bit 3)
 	const EVENT_154                                  ; 154, (D771, bit 4)
 	const EVENT_155                                  ; 155, (D771, bit 5)
-	const EVENT_SEEL_FAN_BOAST                       ; 156, (D771, bit 6)
+	const EVENT_JUROB_FAN_BOAST                      ; 156, (D771, bit 6)
 	const EVENT_PIKACHU_FAN_BOAST                    ; 157, (D771, bit 7)
 	const EVENT_158                                  ; 158, (D772, bit 0)
 	const EVENT_159                                  ; 159, (D772, bit 1)

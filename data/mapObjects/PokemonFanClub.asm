@@ -11,7 +11,7 @@ PokemonFanClub_Object:
 	object SPRITE_FISHER2, 6, 3, STAY, LEFT, 1 ; person
 	object SPRITE_GIRL, 1, 3, STAY, RIGHT, 2 ; person
 	object SPRITE_CLEFAIRY_2, 6, 4, STAY, LEFT, 3 ; person
-	object SPRITE_SEEL, 1, 4, STAY, RIGHT, 4 ; person
+	object SPRITE_JUROB, 1, 4, STAY, RIGHT, 4 ; person
 	object SPRITE_GENTLEMAN, 3, 1, STAY, DOWN, 5 ; person
 	object SPRITE_CABLE_CLUB_WOMAN, 5, 1, STAY, DOWN, 6 ; person
 

@@ -183,9 +183,9 @@ MonPartySpritePointers:
 	db BANK(BirdSprite)
 	dw vSprites + $100
 
-	dw SeelSprite
+	dw JurobSprite
 	db $40 / $10 ; $40 bytes
-	db BANK(SeelSprite)
+	db BANK(JurobSprite)
 	dw vSprites + $140
 
 	dw MonPartySprites + $40
@@ -258,9 +258,9 @@ MonPartySpritePointers:
 	db BANK(BirdSprite)
 	dw vSprites + $500
 
-	dw SeelSprite + $C0
+	dw JurobSprite + $C0
 	db $40 / $10 ; $40 bytes
-	db BANK(SeelSprite)
+	db BANK(JurobSprite)
 	dw vSprites + $540
 
 	dw MonPartySprites

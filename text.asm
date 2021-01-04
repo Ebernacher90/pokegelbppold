@@ -2128,11 +2128,11 @@ INCLUDE "text/maps/Route5.asm"
 INCLUDE "text/maps/Route6.asm"
 INCLUDE "text/maps/Route7.asm"
 INCLUDE "text/maps/Route8.asm"
-INCLUDE "text/maps/Route9.asm"
 
 
 SECTION "Text 4", ROMX ; BANK $29
 
+INCLUDE "text/maps/Route9.asm"
 INCLUDE "text/maps/Route9_2.asm"
 INCLUDE "text/maps/Route10.asm"
 INCLUDE "text/maps/Route11.asm"

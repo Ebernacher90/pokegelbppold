@@ -26,8 +26,8 @@ _Route4AfterBattleText1::
 	done
 
 _Route4Text5::
-	text "MONDSTEINBERG"
-	line "EINGANG"
+	text "Mondberg"
+	line "Eingang"
 	done
 
 _Route4Text6::

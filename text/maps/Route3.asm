@@ -5,8 +5,9 @@ _Route3Text1::
 
 	para "Diese Höhle nach"
 	line "AZURIA, verlangt"
-	cont "eine Menge von ab"
-	cont "von dir"
+	cont "eine Menge von"
+	cont "von dir ab, an"
+	cont "Ausdauer!"
 	done
 
 _Route3BattleText1::
@@ -155,6 +156,6 @@ _Route3AfterBattleText8::
 	done
 
 _Route3Text10::
-	text "ROUTE 3"
-	line "MT.MOON AHEAD"
+	text "Route 3"
+	line "Mondberg Vorraus!"
 	done

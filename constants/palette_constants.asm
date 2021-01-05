@@ -106,3 +106,5 @@ const_value = 0
 	const PAL_GOLBAT	 ; $4F
 	const PAL_ELEKTEK	 ; $50
 	const PAL_MAGMAR	 ; $51
+	const PAL_ONIX		 ; $52
+	const PAL_RIHORN	 ; $53

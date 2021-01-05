@@ -983,3 +983,15 @@ GBCBasePalettes:
 	RGB 31, 28,  8 ; Gelb
 	RGB 31,  8,  6 ; Rot
 	RGB  3,  3,  3
+
+	; PAL_ONIX
+	RGB 31, 31, 31
+	RGB 23, 22, 22 ; Hellgrau
+	RGB 16, 14, 14 ; Dunkelgrau
+	RGB  3,  3,  3
+
+	; PAL_RIHORN
+	RGB 31, 31, 31
+	RGB 23, 23, 25 ; Hellgaru
+	RGB 16, 16, 21 ; Silber
+	RGB  3,  3,  3

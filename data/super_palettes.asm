@@ -992,6 +992,12 @@ GBCBasePalettes:
 
 	; PAL_RIHORN
 	RGB 31, 31, 31
-	RGB 23, 23, 25 ; Hellgaru
+	RGB 23, 23, 25 ; Hellgrau
 	RGB 16, 16, 21 ; Silber
+	RGB  3,  3,  3
+
+	; PAL_RIZEROS
+	RGB 31, 31, 31
+	RGB 24, 24, 23 ; 
+	RGB 17, 17, 18 ; Dunkelgrau
 	RGB  3,  3,  3

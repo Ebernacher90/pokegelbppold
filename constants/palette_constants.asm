@@ -108,3 +108,4 @@ const_value = 0
 	const PAL_MAGMAR	 ; $51
 	const PAL_ONIX		 ; $52
 	const PAL_RIHORN	 ; $53
+	const PAL_RIZEROS	 ; $54

@@ -19433,64 +19433,64 @@ ROMX bank #63:
            $622f = PikaPicAnimCommand_thunderbolt.loop
            $623d = PikaPicAnimCommand_thunderbolt.UpdatePal
            $6247 = PikaPicAnimThunderboltPals
-           $628b = Data_fe26b.loop_23798
+           $628b = Data_fe26b.loop_23799
            $628f = PikaPicAnimScript0
            $628f = PikaPicAnimScript1
            $628f = PikaPicAnimScript29
-           $62a5 = PikaPicAnimScript29.loop_23813
+           $62a5 = PikaPicAnimScript29.loop_23814
            $62a9 = PikaPicAnimScript2
-           $62bf = PikaPicAnimScript2.loop_23827
+           $62bf = PikaPicAnimScript2.loop_23828
            $62c3 = PikaPicAnimScript3
-           $62d9 = PikaPicAnimScript3.loop_23841
+           $62d9 = PikaPicAnimScript3.loop_23842
            $62dd = PikaPicAnimScript4
-           $62f3 = PikaPicAnimScript4.loop_23855
+           $62f3 = PikaPicAnimScript4.loop_23856
            $62f7 = PikaPicAnimScript5
-           $630d = PikaPicAnimScript5.loop_23869
+           $630d = PikaPicAnimScript5.loop_23870
            $6311 = PikaPicAnimScript6
-           $6327 = PikaPicAnimScript6.loop_23884
+           $6327 = PikaPicAnimScript6.loop_23885
            $632b = PikaPicAnimScript7
-           $6341 = PikaPicAnimScript7.loop_23898
+           $6341 = PikaPicAnimScript7.loop_23899
            $6345 = PikaPicAnimScript8
-           $635b = PikaPicAnimScript8.loop_23912
+           $635b = PikaPicAnimScript8.loop_23913
            $635f = PikaPicAnimScript9
-           $6375 = PikaPicAnimScript9.loop_23926
+           $6375 = PikaPicAnimScript9.loop_23927
            $6379 = PikaPicAnimScript10
-           $6391 = PikaPicAnimScript10.loop_23941
+           $6391 = PikaPicAnimScript10.loop_23942
            $6395 = PikaPicAnimScript11
-           $63ab = PikaPicAnimScript11.loop_23955
+           $63ab = PikaPicAnimScript11.loop_23956
            $63af = PikaPicAnimScript12
-           $63c5 = PikaPicAnimScript12.loop_23970
+           $63c5 = PikaPicAnimScript12.loop_23971
            $63c9 = PikaPicAnimScript13
-           $63df = PikaPicAnimScript13.loop_23984
+           $63df = PikaPicAnimScript13.loop_23985
            $63e3 = PikaPicAnimScript14
-           $63f9 = PikaPicAnimScript14.loop_23998
+           $63f9 = PikaPicAnimScript14.loop_23999
            $63fd = PikaPicAnimScript15
-           $6413 = PikaPicAnimScript15.loop_24012
+           $6413 = PikaPicAnimScript15.loop_24013
            $6417 = PikaPicAnimScript16
-           $642d = PikaPicAnimScript16.loop_24026
+           $642d = PikaPicAnimScript16.loop_24027
            $6431 = PikaPicAnimScript17
-           $6447 = PikaPicAnimScript17.loop_24040
+           $6447 = PikaPicAnimScript17.loop_24041
            $644b = PikaPicAnimScript18
-           $6461 = PikaPicAnimScript18.loop_24055
+           $6461 = PikaPicAnimScript18.loop_24056
            $6465 = PikaPicAnimScript19
-           $647b = PikaPicAnimScript19.loop_24069
+           $647b = PikaPicAnimScript19.loop_24070
            $647f = PikaPicAnimScript20
-           $6495 = PikaPicAnimScript20.loop_24083
+           $6495 = PikaPicAnimScript20.loop_24084
            $6499 = PikaPicAnimScript21
-           $64b5 = PikaPicAnimScript21.loop_24101
+           $64b5 = PikaPicAnimScript21.loop_24102
            $64b9 = PikaPicAnimScript22
-           $64cf = PikaPicAnimScript22.loop_24115
+           $64cf = PikaPicAnimScript22.loop_24116
            $64d3 = PikaPicAnimScript23
-           $64e9 = PikaPicAnimScript23.loop_24129
+           $64e9 = PikaPicAnimScript23.loop_24130
            $64ed = PikaPicAnimScript24
-           $6503 = PikaPicAnimScript24.loop_24143
+           $6503 = PikaPicAnimScript24.loop_24144
            $6507 = PikaPicAnimScript25
            $6525 = PikaPicAnimScript26
-           $653f = PikaPicAnimScript26.loop_24175
+           $653f = PikaPicAnimScript26.loop_24176
            $6543 = PikaPicAnimScript27
-           $6559 = PikaPicAnimScript27.loop_24189
+           $6559 = PikaPicAnimScript27.loop_24190
            $655d = PikaPicAnimScript28
-           $6573 = PikaPicAnimScript28.loop_24203
+           $6573 = PikaPicAnimScript28.loop_24204
            $6577 = PikaPicAnimGFXHeaders
            $6577 = PikaPicAnimGFX_Null_id
            $657b = Pic_e4000_id
@@ -19569,68 +19569,68 @@ ROMX bank #63:
     SLACK: $0d8c bytes
 
 ROMX bank #64:
-  SECTION: $4000-$7e96 ($3e97 bytes) ["Pics 1"]
+  SECTION: $4000-$7e3b ($3e3c bytes) ["Pics 1"]
            $4000 = RizerosPicFront
-           $4249 = RizerosPicBack
-           $42e1 = KangaskhanPicFront
-           $44e9 = KangaskhanPicBack
-           $457f = NidoranMPicFront
-           $466a = NidoranMPicBack
-           $46c9 = ClefairyPicFront
-           $47a4 = ClefairyPicBack
-           $47fe = SpearowPicFront
-           $48df = SpearowPicBack
-           $492e = VoltorbPicFront
-           $49cf = VoltorbPicBack
-           $4a33 = NidokingPicFront
-           $4c88 = NidokingPicBack
-           $4d32 = SlowbroPicFront
-           $4f7c = SlowbroPicBack
-           $5020 = IvysaurPicFront
-           $5151 = IvysaurPicBack
-           $51d0 = ExeggutorPicFront
-           $541d = ExeggutorPicBack
-           $54cc = LickitungPicFront
-           $569a = LickitungPicBack
-           $5733 = ExeggcutePicFront
-           $5938 = ExeggcutePicBack
-           $59bb = GrimerPicFront
-           $5ad6 = GrimerPicBack
-           $5b9c = GengarPicFront
-           $5cf1 = GengarPicBack
-           $5d53 = NidoranFPicFront
-           $5e2a = NidoranFPicBack
-           $5e71 = NidoqueenPicFront
-           $607e = NidoqueenPicBack
-           $6137 = CubonePicFront
-           $623a = CubonePicBack
-           $62ac = RihornPicFront
-           $644e = RihornPicBack
-           $6500 = LaprasPicFront
-           $6663 = LaprasPicBack
-           $66ee = ArcaninePicFront
-           $6915 = ArcaninePicBack
-           $69ac = MewPicFront
-           $6a9b = MewPicBack
-           $6b30 = GyaradosPicFront
-           $6d7d = GyaradosPicBack
-           $6e0e = ShellderPicFront
-           $6edb = ShellderPicBack
-           $6f42 = TentacoolPicFront
-           $7037 = TentacoolPicBack
-           $7092 = GastlyPicFront
-           $7286 = GastlyPicBack
-           $7312 = ScytherPicFront
-           $753f = ScytherPicBack
-           $75e3 = StaryuPicFront
-           $7706 = StaryuPicBack
-           $7751 = BlastoisePicFront
-           $7963 = BlastoisePicBack
-           $79ec = PinsirPicFront
-           $7bc7 = PinsirPicBack
-           $7c56 = TangelaPicFront
-           $7e13 = TangelaPicBack
-    SLACK: $0169 bytes
+           $41ee = RizerosPicBack
+           $4286 = KangaskhanPicFront
+           $448e = KangaskhanPicBack
+           $4524 = NidoranMPicFront
+           $460f = NidoranMPicBack
+           $466e = ClefairyPicFront
+           $4749 = ClefairyPicBack
+           $47a3 = SpearowPicFront
+           $4884 = SpearowPicBack
+           $48d3 = VoltorbPicFront
+           $4974 = VoltorbPicBack
+           $49d8 = NidokingPicFront
+           $4c2d = NidokingPicBack
+           $4cd7 = SlowbroPicFront
+           $4f21 = SlowbroPicBack
+           $4fc5 = IvysaurPicFront
+           $50f6 = IvysaurPicBack
+           $5175 = ExeggutorPicFront
+           $53c2 = ExeggutorPicBack
+           $5471 = LickitungPicFront
+           $563f = LickitungPicBack
+           $56d8 = ExeggcutePicFront
+           $58dd = ExeggcutePicBack
+           $5960 = GrimerPicFront
+           $5a7b = GrimerPicBack
+           $5b41 = GengarPicFront
+           $5c96 = GengarPicBack
+           $5cf8 = NidoranFPicFront
+           $5dcf = NidoranFPicBack
+           $5e16 = NidoqueenPicFront
+           $6023 = NidoqueenPicBack
+           $60dc = CubonePicFront
+           $61df = CubonePicBack
+           $6251 = RihornPicFront
+           $63f3 = RihornPicBack
+           $64a5 = LaprasPicFront
+           $6608 = LaprasPicBack
+           $6693 = ArcaninePicFront
+           $68ba = ArcaninePicBack
+           $6951 = MewPicFront
+           $6a40 = MewPicBack
+           $6ad5 = GyaradosPicFront
+           $6d22 = GyaradosPicBack
+           $6db3 = ShellderPicFront
+           $6e80 = ShellderPicBack
+           $6ee7 = TentacoolPicFront
+           $6fdc = TentacoolPicBack
+           $7037 = GastlyPicFront
+           $722b = GastlyPicBack
+           $72b7 = ScytherPicFront
+           $74e4 = ScytherPicBack
+           $7588 = StaryuPicFront
+           $76ab = StaryuPicBack
+           $76f6 = BlastoisePicFront
+           $7908 = BlastoisePicBack
+           $7991 = PinsirPicFront
+           $7b6c = PinsirPicBack
+           $7bfb = TangelaPicFront
+           $7db8 = TangelaPicBack
+    SLACK: $01c4 bytes
 
 ROMX bank #65:
   SECTION: $4000-$7e1b ($3e1c bytes) ["Pics 2"]
@@ -20163,7 +20163,7 @@ ROMX bank #76:
     SLACK: $3bc4 bytes
 
 ROMX bank #77:
-  SECTION: $4000-$5dc4 ($1dc5 bytes) ["bank4d"]
+  SECTION: $4000-$5dcc ($1dcd bytes) ["bank4d"]
            $4000 = _RunPaletteCommand
            $400b = _RunPaletteCommand.next
            $4020 = SetPal_Black
@@ -20324,9 +20324,9 @@ ROMX bank #77:
            $4a6e = MonsterPalettes
            $4b15 = SuperPalettes
            $4da5 = GBCBasePalettes
-           $5045 = BorderPalettes
-           $58c5 = SGBBorderGraphics
-    SLACK: $223b bytes
+           $504d = BorderPalettes
+           $58cd = SGBBorderGraphics
+    SLACK: $2233 bytes
 
 SRAM bank #0:
   SECTION: $a000-$b857 ($1858 bytes) ["Sprite Buffers"]

@@ -2043,16 +2043,7 @@ MarowakPicFront:      INCBIN "pic/ymon/marowak.pic"
 MarowakPicBack:       INCBIN "pic/monback/marowakb.pic"
 HaunterPicFront:      INCBIN "pic/ymon/haunter.pic"
 HaunterPicBack:       INCBIN "pic/monback/haunterb.pic"
-AbraPicFront:         INCBIN "pic/ymon/abra.pic"
-AbraPicBack:          INCBIN "pic/monback/abrab.pic"
-AlakazamPicFront:     INCBIN "pic/ymon/alakazam.pic"
-AlakazamPicBack:      INCBIN "pic/monback/alakazamb.pic"
-PidgeottoPicFront:    INCBIN "pic/ymon/pidgeotto.pic"
-PidgeottoPicBack:     INCBIN "pic/monback/pidgeottob.pic"
-PidgeotPicFront:      INCBIN "pic/ymon/pidgeot.pic"
-PidgeotPicBack:       INCBIN "pic/monback/pidgeotb.pic"
-StarmiePicFront:      INCBIN "pic/ymon/starmie.pic"
-StarmiePicBack:       INCBIN "pic/monback/starmieb.pic"
+
 
 SECTION "Pics 5", ROMX ; BANK $44
 
@@ -2112,14 +2103,7 @@ StahlosPicFront:      INCBIN "pic/ymon/stahlos.pic"
 StahlosPicBack:       INCBIN "pic/monback/stahlosb.pic"
 IksbatPicFront:		  INCBIN "pic/ymon/iksbat.pic"
 IksbatPicBack:		  INCBIN "pic/monback/iksbatb.pic"
-RihorniorPicFront:    INCBIN "pic/ymon/rihornior.pic"
-RihorniorPicBack:	  INCBIN "pic/monback/rihorniorb.pic"
-MagbrantPicFront:	  INCBIN "pic/ymon/magbrant.pic"
-MagbrantPicBack:	  INCBIN "pic/monback/magbrantb.pic"
-ElevoltekPicFront:	  INCBIN "pic/ymon/elevoltek.pic"
-ElevoltekPicBack:	  INCBIN "pic/monback/elevoltekb.pic"
-Porygon2PicFront:	  INCBIN "pic/ymon/porygon2.pic"
-Porygon2PicBack:	  INCBIN "pic/monback/porygon2b.pic"
+
 
 
 SECTION "Pics 6", ROMX ; BANK $45
@@ -2144,6 +2128,27 @@ MagnezonePicFront:	 INCBIN "pic/ymon/magnezone.pic"
 MagnezonePicBack:	 INCBIN "pic/monback/magnezoneb.pic"
 MagnetonPicFront:    INCBIN "pic/ymon/magneton.pic"
 MagnetonPicBack:     INCBIN "pic/monback/magnetonb.pic"
+
+SECTION "Pics 7", ROMX
+
+AbraPicFront:         INCBIN "pic/ymon/abra.pic"
+AbraPicBack:          INCBIN "pic/monback/abrab.pic"
+AlakazamPicFront:     INCBIN "pic/ymon/alakazam.pic"
+AlakazamPicBack:      INCBIN "pic/monback/alakazamb.pic"
+PidgeottoPicFront:    INCBIN "pic/ymon/pidgeotto.pic"
+PidgeottoPicBack:     INCBIN "pic/monback/pidgeottob.pic"
+PidgeotPicFront:      INCBIN "pic/ymon/pidgeot.pic"
+PidgeotPicBack:       INCBIN "pic/monback/pidgeotb.pic"
+StarmiePicFront:      INCBIN "pic/ymon/starmie.pic"
+StarmiePicBack:       INCBIN "pic/monback/starmieb.pic"
+RihorniorPicFront:    INCBIN "pic/ymon/rihornior.pic"
+RihorniorPicBack:	  INCBIN "pic/monback/rihorniorb.pic"
+MagbrantPicFront:	  INCBIN "pic/ymon/magbrant.pic"
+MagbrantPicBack:	  INCBIN "pic/monback/magbrantb.pic"
+ElevoltekPicFront:	  INCBIN "pic/ymon/elevoltek.pic"
+ElevoltekPicBack:	  INCBIN "pic/monback/elevoltekb.pic"
+Porygon2PicFront:	  INCBIN "pic/ymon/porygon2.pic"
+Porygon2PicBack:	  INCBIN "pic/monback/porygon2b.pic"
 
 
 SECTION "bank46", ROMX
